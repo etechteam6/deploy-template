@@ -1,1 +1,1 @@
-# deploy-template
+# etech-deploy-template
